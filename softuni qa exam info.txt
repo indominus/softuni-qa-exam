@@ -1,0 +1,5 @@
+Github repository: https://github.com/indominus/softuni-qa-exam
+
+1. Development lead is Ann Arbor (username: softuni-cocochanel), 
+2. the lead of Design and Art is Ashley Degollado (username: ashleydegollado), 
+3. the Project Manager is Rob Lozano (rob-lozano)
